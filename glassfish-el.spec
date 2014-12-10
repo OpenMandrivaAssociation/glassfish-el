@@ -14,7 +14,7 @@ BuildArch:      noarch
 
 BuildRequires:  maven-local
 BuildRequires:  mvn(junit:junit)
-BuildRequires:  mvn(javax.el:javax.el-api) = 3.0
+BuildRequires:  mvn(javax.el:javax.el-api) = 3.0.0
 BuildRequires:  mvn(net.java:jvnet-parent:pom:)
 BuildRequires:  mvn(org.apache.felix:maven-bundle-plugin)
 BuildRequires:  mvn(org.apache.maven.plugins:maven-release-plugin)
