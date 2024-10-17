@@ -6,7 +6,7 @@ Version:        3.0.0
 Release:        4%{?dist}
 Summary:        J2EE Expression Language Implementation
 License:        CDDL or GPLv2 with exceptions
-URL:            http://uel.java.net
+URL:            https://uel.java.net
 # ./generate_tarball.sh
 Source0:        %{name}-%{version}.tar.gz
 Source1:        generate_tarball.sh
